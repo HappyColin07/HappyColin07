@@ -12,15 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&text=Hi%20there%20👋&fontSize=30&animation=twinkling)
-
+# Hi there 👋
 
 <br>
 
-<h3 align="center">skills</h3>
-<p align="center">
+<h3>skills</h3>
 
+<p>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white">
