@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&text=Hi%20there%20👋&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&text=Hi%20there%20👋🏻&fontSize=30&animation=twinkling)
 <h3 align="center">skills</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white">
