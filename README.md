@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
-
-<br>
-
 <h3>skills</h3>
 
 <p>
@@ -27,6 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white">
 </p>
 
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinkim1207)](https://github.com/anuraghazra/github-readme-stats)
 
