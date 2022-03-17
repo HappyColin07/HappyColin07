@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&text=Hi%20there%20👋&fontSize=30&animation=twinkling)
-</p>
+
 
 <br>
 
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white">
 </p>
 
-<p align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinkim1207)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
