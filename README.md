@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 <h3 align="center">하는것들</h3>
-<a href="https://colinkim1207.github.io" align="center" >colinkim1207.github.io"</a>
+<p align="center">
+<a href="https://colinkim1207.github.io">colinkim1207.github.io</a>
+</p>
 <br>
 
 ![colinkim1207's github stats](https://github-readme-stats.vercel.app/api?username=colinkim1207&show_icons=true)
