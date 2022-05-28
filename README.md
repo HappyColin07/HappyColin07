@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">하는것들</h3>
 <p align="center">
-<a href="https://colinkim1207.github.io">colinkim1207.github.io</a>
+<a href="https://sites.google.com/view/colinkim1207">sites.google.com/view/colinkim1207</a>
 </p>
 <br>
 
