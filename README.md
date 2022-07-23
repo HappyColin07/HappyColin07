@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-![colinkim1207's github stats](https://github-readme-stats.vercel.app/api?username=colinkim1207&show_icons=true)
-[![colinkim1207's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=colinkim1207&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/colinkim1207)
+![HappyColin07's github stats](https://github-readme-stats.vercel.app/api?username=happycolin07&show_icons=true)
+[![HappyColin07's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=colinkim1207&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/happycolin07)
