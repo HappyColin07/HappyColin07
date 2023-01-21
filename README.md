@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-![SNRI07's github stats](https://github-readme-stats.vercel.app/api?username=happycolin07&show_icons=true)
+![SNRI07's github stats](https://github-readme-stats.vercel.app/api?username=SNRI07&show_icons=true)
 [![SNRI07's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SNRI07&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SNRI07)
